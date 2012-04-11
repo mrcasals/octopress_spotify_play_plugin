@@ -1,5 +1,7 @@
 This Octopress plugin is pretty simple. You have to use the `spotify` liquid
-tag and, as param, one of the following examples. 
+tag and, as param, one of the examples you'll find in [the blog post where I
+talk about the
+plugin](http://mrcasals.github.com/blog/2012/04/11/my-first-octopress-plugin-spotify-play-button/).
 
 In the next release it will let you specify the height and the width of the
 widget. I hope it won't take very long :)
