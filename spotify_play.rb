@@ -1,7 +1,7 @@
 # A Liquid tag for Jekyll sites that allows embedding Spotify Play buttons
 # by: Marc Riera (mrcasals)
 #
-# Source url: https://github.com/mrcasals/spotify_play_plugin
+# Source url: https://github.com/mrcasals/octopress_spotify_play_plugin
 # Post: http://mrcasals.github.com/blog/2012/04/11/my-first-octopress-plugin-spotify-play-button/
 #
 # Example usage: 
