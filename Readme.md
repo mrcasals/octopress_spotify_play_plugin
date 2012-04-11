@@ -5,8 +5,8 @@ In the next release it will let you specify the height and the width of the
 widget. I hope it won't take very long :)
 
 ## Installation
-Just download this file into your Octopress installation's `plugins/` directory
-and you'll be fine.
+Just download the `spotify_play.rb` file into your Octopress installation's
+`plugins/` directory and you'll be fine.
 
 ## Adding a single track
 `spotify spotify:track:4vVE8YDntxjT0gld4bdd4x`
